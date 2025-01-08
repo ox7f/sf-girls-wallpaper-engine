@@ -1,0 +1,125 @@
+{
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"agent" : 
+			{
+				"index" : 0,
+				"options" : 
+				[
+					{
+						"label" : "Midori",
+						"value" : "Midori"
+					},
+					{
+						"label" : "Akina",
+						"value" : "Akina"
+					}
+				],
+				"order" : 100,
+				"text" : "Agent",
+				"type" : "combo",
+				"value" : "Midori"
+			},
+			"allowclick" : 
+			{
+				"condition" : "agent.value != \"\"",
+				"index" : 2,
+				"order" : 102,
+				"text" : "Allow Click",
+				"type" : "bool",
+				"value" : true
+			},
+			"allowdrag" : 
+			{
+				"condition" : "agent.value != \"\"",
+				"index" : 3,
+				"order" : 103,
+				"text" : "Allow Drag",
+				"type" : "bool",
+				"value" : true
+			},
+			"alpha" : 
+			{
+				"condition" : "agent.value != \"\"",
+				"fraction" : true,
+				"index" : 4,
+				"max" : 1,
+				"min" : 0,
+				"order" : 104,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "Alpha",
+				"type" : "slider",
+				"value" : 1
+			},
+			"angle" : 
+			{
+				"condition" : "agent.value != \"\"",
+				"fraction" : false,
+				"index" : 5,
+				"max" : 360,
+				"min" : 0,
+				"order" : 105,
+				"text" : "Angle",
+				"type" : "slider",
+				"value" : 0
+			},
+			"lewdness" : 
+			{
+				"condition" : "agent.value != \"\"",
+				"fraction" : false,
+				"index" : 1,
+				"max" : 3,
+				"min" : 1,
+				"order" : 101,
+				"text" : "Lewdness",
+				"type" : "slider",
+				"value" : 1
+			},
+			"scale" : 
+			{
+				"condition" : "agent.value != \"\"",
+				"fraction" : true,
+				"index" : 6,
+				"max" : 2,
+				"min" : 0,
+				"order" : 106,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "Scale",
+				"type" : "slider",
+				"value" : 0.5
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"timescale" : 
+			{
+				"condition" : "agent.value != \"\"",
+				"fraction" : true,
+				"index" : 7,
+				"max" : 4,
+				"min" : 0,
+				"order" : 107,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "Timescale",
+				"type" : "slider",
+				"value" : 1
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"snapshotformat" : -1,
+	"snapshotoverlay" : "",
+	"title" : "SF-Girls",
+	"type" : "web",
+	"version" : 0
+}

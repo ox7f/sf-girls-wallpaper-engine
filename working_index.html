@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Spine Animation for Wallpaper Engine</title>
+    <style>
+      body,
+      html {
+        margin: 0;
+        overflow: hidden;
+      }
+      canvas {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="pixi.min.js"></script>
+    <script src="pixi-spine.min.js"></script>
+    <script>
+      let animation;
+      let lewdness = 1;
+
+      const configuration = {
+        agent: "",
+        lewdness: 1,
+        allowClick: true,
+        allowDrag: true,
+        alpha: 1,
+        angle: 0,
+        scale: 0.5,
+        offsetX: 0,
+        offsetY: 0,
+        timeScale: 1,
+      };
+
+      window.wallpaperPropertyListener = {
+        applyUserProperties: function (properties) {
+          if (properties.agent) {
+            // TODO: create new spine and replace old spine with it
+            const { value } = properties.agent;
+            configuration.agent = value;
+          }
+          if (properties.lewdness) {
+            const value = parseInt(properties.lewdness.value);
+            configuration.lewdness = value;
+            animation.state.setAnimation(0, `Idle ${value}`, true);
+          }
+          if (properties.allowclick) {
+            configuration.allowClick = !!properties.allowclick.value;
+          }
+          if (properties.allowdrag) {
+            configuration.allowDrag = !!properties.allowdrag.value;
+          }
+          if (properties.alpha) {
+            const value = parseFloat(properties.alpha.value);
+            configuration.alpha = value;
+            animation.parent.alpha = value;
+          }
+          if (properties.angle) {
+            const value = parseInt(properties.angle.value);
+            configuration.angle = value;
+            animation.parent.angle = value;
+          }
+          if (properties.scale) {
+            const value = parseFloat(properties.scale.value);
+            configuration.scale = value;
+            animation.parent.scale.set(value);
+          }
+          if (properties.offsetx) {
+            const value = parseInt(properties.offsetx.value);
+            configuration.offsetX = value;
+            animation.parent.x = value;
+          }
+          if (properties.offsety) {
+            const value = parseInt(properties.offsety.value);
+            configuration.offsetY = value;
+            animation.parent.y = value;
+          }
+          if (properties.timescale) {
+            const value = parseFloat(properties.timescale.value);
+            configuration.timeScale = value;
+            animation.state.timeScale = value;
+          }
+        },
+      };
+
+      const app = new PIXI.Application({
+        resizeTo: window,
+        backgroundAlpha: 0,
+        resolution: window.devicePixelRatio ?? 1,
+        autoDensity: true,
+      });
+
+      document.body.appendChild(app.view);
+
+      const backgroundPaths = [
+        "assets/background/bg_home_rider_sky.png",
+        "assets/background/bg_home_rider.png",
+        "assets/background/bg_home_rider_smoke.png",
+        "assets/background/bg_home_rider_light.png",
+      ];
+
+      loadBackgroundLayers(app, backgroundPaths);
+
+      loadAgent(app);
+
+      function loadAgent(app) {
+        PIXI.Assets.load("assets/Midori_Spine_Skin1.json").then(
+          ({ spineData }) => {
+            if (!spineData) return;
+
+            animation = new PIXI.spine.Spine(spineData);
+            animation.state.timeScale = configuration.timeScale;
+            animation.state.setAnimation(0, `Idle ${lewdness}`, true);
+
+            const container = new PIXI.Container();
+            container.interactive = true;
+            container.addChild(animation);
+            app.stage.addChild(container);
+
+            applyContainerStyle(container);
+            setupClickEvents(container, animation);
+            setupDragEvents(container);
+
+            window.addEventListener("resize", () =>
+              centerContainer(container, app)
+            );
+          }
+        );
+      }
+
+      function loadBackgroundLayers(app, backgroundPaths) {
+        PIXI.Assets.load(backgroundPaths).then(() => {
+          backgroundPaths.forEach((path) => {
+            const texture = PIXI.Texture.from(path);
+            const sprite = new PIXI.Sprite(texture);
+
+            const resizeSprite = () => {
+              const scale = Math.max(
+                app.screen.width / sprite.width,
+                app.screen.height / sprite.height
+              );
+              sprite.scale.set(Math.ceil(scale * 100) / 100);
+
+              sprite.anchor.set(0.5);
+              sprite.position.set(
+                Math.round(app.screen.width / 2),
+                Math.round(app.screen.height / 2)
+              );
+            };
+
+            resizeSprite();
+            app.stage.addChild(sprite);
+          });
+        });
+      }
+
+      function applyContainerStyle(container) {
+        const bounds = container.getLocalBounds();
+        container.pivot.set(
+          bounds.x + bounds.width / 2,
+          bounds.y + bounds.height / 2
+        );
+
+        container.alpha = configuration.alpha;
+        container.angle = configuration.angle;
+        container.position.set(configuration.offsetX, configuration.offsetY);
+        container.scale.set(configuration.scale);
+      }
+
+      function setupClickEvents(container, animation) {
+        container.on("pointerdown", () => {
+          const { allowClick, lewdness } = configuration;
+          if (!allowClick) return;
+          animation.state.setAnimation(0, `Touch ${lewdness}`, false);
+          animation.state.addAnimation(0, `Idle ${lewdness}`, true, 0);
+        });
+      }
+
+      let dragTarget;
+
+      function setupDragEvents(container) {
+        container
+          .on("pointerdown", onDragStart)
+          .on("pointerup", onDragEnd)
+          .on("pointerupoutside", onDragEnd)
+          .on("pointermove", onDragMove);
+
+        function onDragStart(event) {
+          if (!configuration.allowDrag) return;
+          dragTarget = container;
+          const position = event.data.getLocalPosition(container);
+          dragTarget.pivot.set(position.x, position.y);
+          dragTarget.position.set(event.data.global.x, event.data.global.y);
+        }
+
+        function onDragMove(event) {
+          if (dragTarget) {
+            dragTarget.x = event.data.global.x;
+            dragTarget.y = event.data.global.y;
+          }
+        }
+
+        function onDragEnd() {
+          dragTarget = null;
+        }
+      }
+    </script>
+  </body>
+</html>
