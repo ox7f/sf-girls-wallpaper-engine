@@ -1,125 +1,170 @@
 {
-	"file" : "index.html",
-	"general" : 
-	{
-		"properties" : 
-		{
-			"agent" : 
-			{
-				"index" : 0,
-				"options" : 
-				[
-					{
-						"label" : "Midori",
-						"value" : "Midori"
-					},
-					{
-						"label" : "Akina",
-						"value" : "Akina"
-					}
-				],
-				"order" : 100,
-				"text" : "Agent",
-				"type" : "combo",
-				"value" : "Midori"
-			},
-			"allowclick" : 
-			{
-				"condition" : "agent.value != \"\"",
-				"index" : 2,
-				"order" : 102,
-				"text" : "Allow Click",
-				"type" : "bool",
-				"value" : true
-			},
-			"allowdrag" : 
-			{
-				"condition" : "agent.value != \"\"",
-				"index" : 3,
-				"order" : 103,
-				"text" : "Allow Drag",
-				"type" : "bool",
-				"value" : true
-			},
-			"alpha" : 
-			{
-				"condition" : "agent.value != \"\"",
-				"fraction" : true,
-				"index" : 4,
-				"max" : 1,
-				"min" : 0,
-				"order" : 104,
-				"precision" : 3,
-				"step" : 0.01,
-				"text" : "Alpha",
-				"type" : "slider",
-				"value" : 1
-			},
-			"angle" : 
-			{
-				"condition" : "agent.value != \"\"",
-				"fraction" : false,
-				"index" : 5,
-				"max" : 360,
-				"min" : 0,
-				"order" : 105,
-				"text" : "Angle",
-				"type" : "slider",
-				"value" : 0
-			},
-			"lewdness" : 
-			{
-				"condition" : "agent.value != \"\"",
-				"fraction" : false,
-				"index" : 1,
-				"max" : 3,
-				"min" : 1,
-				"order" : 101,
-				"text" : "Lewdness",
-				"type" : "slider",
-				"value" : 1
-			},
-			"scale" : 
-			{
-				"condition" : "agent.value != \"\"",
-				"fraction" : true,
-				"index" : 6,
-				"max" : 2,
-				"min" : 0,
-				"order" : 106,
-				"precision" : 3,
-				"step" : 0.01,
-				"text" : "Scale",
-				"type" : "slider",
-				"value" : 0.5
-			},
-			"schemecolor" : 
-			{
-				"order" : 0,
-				"text" : "ui_browse_properties_scheme_color",
-				"type" : "color",
-				"value" : "0 0 0"
-			},
-			"timescale" : 
-			{
-				"condition" : "agent.value != \"\"",
-				"fraction" : true,
-				"index" : 7,
-				"max" : 4,
-				"min" : 0,
-				"order" : 107,
-				"precision" : 3,
-				"step" : 0.01,
-				"text" : "Timescale",
-				"type" : "slider",
-				"value" : 1
-			}
-		}
-	},
-	"preview" : "preview.jpg",
-	"snapshotformat" : -1,
-	"snapshotoverlay" : "",
-	"title" : "SF-Girls",
-	"type" : "web",
-	"version" : 0
+  "file": "index.html",
+  "general": {
+    "properties": {
+      "agent": {
+        "index": 0,
+        "options": [
+          {
+            "label": "Akari",
+            "value": "Akari_Spine"
+          },
+          {
+            "label": "Akari Skin 1",
+            "value": "Akari_Spine_Skin1"
+          },
+          {
+            "label": "Akari Skin 2",
+            "value": "Akari_Spine_Skin2"
+          },
+          {
+            "label": "Akina Skin 1",
+            "value": "Akina_Spine_Skin1"
+          },
+          {
+            "label": "Midori Skin 1",
+            "value": "Midori_Spine_Skin1"
+          }
+        ],
+        "order": 100,
+        "text": "Agent",
+        "type": "combo",
+        "value": "Akari_Spine"
+      },
+      "allowClick": {
+        "condition": "agent.value != \"\"",
+        "index": 3,
+        "order": 103,
+        "text": "Allow Click",
+        "type": "bool",
+        "value": true
+      },
+      "allowDrag": {
+        "condition": "agent.value != \"\"",
+        "index": 4,
+        "order": 104,
+        "text": "Allow Drag",
+        "type": "bool",
+        "value": true
+      },
+      "alpha": {
+        "condition": "agent.value != \"\"",
+        "fraction": true,
+        "index": 5,
+        "max": 1,
+        "min": 0,
+        "order": 105,
+        "precision": 3,
+        "step": 0.01,
+        "text": "Alpha",
+        "type": "slider",
+        "value": 1
+      },
+      "angle": {
+        "condition": "agent.value != \"\"",
+        "fraction": false,
+        "index": 6,
+        "max": 360,
+        "min": 0,
+        "order": 106,
+        "text": "Angle",
+        "type": "slider",
+        "value": 0
+      },
+      "background": {
+        "index": 1,
+        "options": [
+          {
+            "label": "Lobby 1",
+            "value": "lobby_1"
+          },
+          {
+            "label": "Lobby 2",
+            "value": "lobby_2"
+          },
+          {
+            "label": "Lobby 3",
+            "value": "lobby_3"
+          },
+          {
+            "label": "Lobby 4",
+            "value": "lobby_4"
+          },
+          {
+            "label": "Lobby 5",
+            "value": "lobby_5"
+          },
+          {
+            "label": "Lobby 6",
+            "value": "lobby_6"
+          },
+          {
+            "label": "Lobby 7",
+            "value": "lobby_7"
+          },
+          {
+            "label": "Lobby 8",
+            "value": "lobby_8"
+          },
+          {
+            "label": "Lobby 9",
+            "value": "lobby_9"
+          }
+        ],
+        "order": 101,
+        "text": "Background",
+        "type": "combo",
+        "value": "lobby_1"
+      },
+      "lewdness": {
+        "condition": "agent.value != \"\"",
+        "fraction": false,
+        "index": 2,
+        "max": 3,
+        "min": 1,
+        "order": 102,
+        "text": "Lewdness",
+        "type": "slider",
+        "value": 1
+      },
+      "scale": {
+        "condition": "agent.value != \"\"",
+        "fraction": true,
+        "index": 7,
+        "max": 2,
+        "min": 0,
+        "order": 107,
+        "precision": 3,
+        "step": 0.01,
+        "text": "Scale",
+        "type": "slider",
+        "value": 0.5
+      },
+      "schemecolor": {
+        "order": 0,
+        "text": "ui_browse_properties_scheme_color",
+        "type": "color",
+        "value": "0 0 0"
+      },
+      "timescale": {
+        "condition": "agent.value != \"\"",
+        "fraction": true,
+        "index": 8,
+        "max": 4,
+        "min": 0,
+        "order": 108,
+        "precision": 3,
+        "step": 0.01,
+        "text": "Timescale",
+        "type": "slider",
+        "value": 1
+      }
+    }
+  },
+  "preview": "preview.jpg",
+  "snapshotformat": -1,
+  "snapshotoverlay": "",
+  "title": "SF-Girls",
+  "type": "web",
+  "version": 0
 }
