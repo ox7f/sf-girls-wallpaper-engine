@@ -1,0 +1,860 @@
+{
+  "Aizawa_Minami_Spine": {
+    "Spine": {
+      "name": "Aizawa Minami",
+      "fileName": "sf-girls-assets/Agents/Aizawa_Minami/Spine/Aizawa_Minami_Spine.json"
+    }
+  },
+  "Akari_Spine": {
+    "Spine": {
+      "name": "Akari",
+      "fileName": "sf-girls-assets/Agents/Akari/Spine/Akari_Spine.json"
+    }
+  },
+  "Akari_Spine_Skin1": {
+    "Spine": {
+      "name": "Akari Skin 1",
+      "fileName": "sf-girls-assets/Agents/Akari/Spine/Akari_Spine_Skin1.json"
+    }
+  },
+  "Akari_Spine_Skin2": {
+    "Spine": {
+      "name": "Akari Skin 2",
+      "fileName": "sf-girls-assets/Agents/Akari/Spine/Akari_Spine_Skin2.json"
+    }
+  },
+  "Akina_Spine": {
+    "Spine": {
+      "name": "Akina",
+      "fileName": "sf-girls-assets/Agents/Akina/Spine/Akina_Spine.json"
+    }
+  },
+  "Akina_Spine_Skin1": {
+    "Spine": {
+      "name": "Akina Skin 1",
+      "fileName": "sf-girls-assets/Agents/Akina/Spine/Akina_Spine_Skin1.json"
+    }
+  },
+  "Akina_Spine_Skin2": {
+    "Spine": {
+      "name": "Akina Skin 2",
+      "fileName": "sf-girls-assets/Agents/Akina/Spine/Akina_Spine_Skin2.json"
+    }
+  },
+  "Amikam_Spine": {
+    "Spine": {
+      "name": "Amikam",
+      "fileName": "sf-girls-assets/Agents/Amikam/Spine/Amikam_Spine.json"
+    }
+  },
+  "Amikam_Spine_Skin1": {
+    "Spine": {
+      "name": "Amikam Skin 1",
+      "fileName": "sf-girls-assets/Agents/Amikam/Spine/Amikam_Spine_Skin1.json"
+    }
+  },
+  "Aoi_Spine_Skin1": {
+    "Spine": {
+      "name": "Aoi Skin 1",
+      "fileName": "sf-girls-assets/Agents/Aoi/Spine/Aoi_Spine_Skin1.json"
+    }
+  },
+  "Aoi_Spine_Skin2": {
+    "Spine": {
+      "name": "Aoi Skin 2",
+      "fileName": "sf-girls-assets/Agents/Aoi/Spine/Aoi_Spine_Skin2.json"
+    }
+  },
+  "Aphra_Clairmont_Spine": {
+    "Spine": {
+      "name": "Aphra Clairmont",
+      "fileName": "sf-girls-assets/Agents/Aphra_Clairmont/Spine/Aphra_Clairmont_Spine.json"
+    }
+  },
+  "Ari_Spine": {
+    "Spine": {
+      "name": "Ari",
+      "fileName": "sf-girls-assets/Agents/Ari/Spine/Ari_Spine.json"
+    }
+  },
+  "Ari_Spine_Skin1": {
+    "Spine": {
+      "name": "Ari Skin 1",
+      "fileName": "sf-girls-assets/Agents/Ari/Spine/Ari_Spine_Skin1.json"
+    }
+  },
+  "Astraea_Spine": {
+    "Spine": {
+      "name": "Astraea",
+      "fileName": "sf-girls-assets/Agents/Astraea/Spine/Astraea_Spine.json"
+    }
+  },
+  "Astraea_Spine_Skin1": {
+    "Spine": {
+      "name": "Astraea Skin 1",
+      "fileName": "sf-girls-assets/Agents/Astraea/Spine/Astraea_Spine_Skin1.json"
+    }
+  },
+  "Bia_Spine": {
+    "Spine": {
+      "name": "Bia",
+      "fileName": "sf-girls-assets/Agents/Bia/Spine/Bia_Spine.json"
+    }
+  },
+  "Bia_Spine_Skin1": {
+    "Spine": {
+      "name": "Bia Skin 1",
+      "fileName": "sf-girls-assets/Agents/Bia/Spine/Bia_Spine_Skin1.json"
+    }
+  },
+  "Cadence_Spine": {
+    "Spine": {
+      "name": "Cadence",
+      "fileName": "sf-girls-assets/Agents/Cadence/Spine/Cadence_Spine.json"
+    }
+  },
+  "Cadence_Spine_Skin2": {
+    "Spine": {
+      "name": "Cadence Skin 2",
+      "fileName": "sf-girls-assets/Agents/Cadence/Spine/Cadence_Spine_Skin2.json"
+    }
+  },
+  "Cadence_Spine_Wedding": {
+    "Spine": {
+      "name": "Cadence Wedding",
+      "fileName": "sf-girls-assets/Agents/Cadence/Spine/Cadence_Spine_Wedding.json"
+    }
+  },
+  "Chia_Spine": {
+    "Spine": {
+      "name": "Chia",
+      "fileName": "sf-girls-assets/Agents/Chia/Spine/Chia_Spine.json"
+    }
+  },
+  "Chia_Spine_Skin1": {
+    "Spine": {
+      "name": "Chia Skin 1",
+      "fileName": "sf-girls-assets/Agents/Chia/Spine/Chia_Spine_Skin1.json"
+    }
+  },
+  "Chia_Spine_Skin2": {
+    "Spine": {
+      "name": "Chia Skin 2",
+      "fileName": "sf-girls-assets/Agents/Chia/Spine/Chia_Spine_Skin2.json"
+    }
+  },
+  "Chiharu_Spine": {
+    "Spine": {
+      "name": "Chiharu",
+      "fileName": "sf-girls-assets/Agents/Chiharu/Spine/Chiharu_Spine.json"
+    }
+  },
+  "Chiharu_Spine_Skin1": {
+    "Spine": {
+      "name": "Chiharu Skin 1",
+      "fileName": "sf-girls-assets/Agents/Chiharu/Spine/Chiharu_Spine_Skin1.json"
+    }
+  },
+  "Chihiro_Spine": {
+    "Spine": {
+      "name": "Chihiro",
+      "fileName": "sf-girls-assets/Agents/Chihiro/Spine/Chihiro_Spine.json"
+    }
+  },
+  "Chihiro_Spine_Skin1": {
+    "Spine": {
+      "name": "Chihiro Skin 1",
+      "fileName": "sf-girls-assets/Agents/Chihiro/Spine/Chihiro_Spine_Skin1.json"
+    }
+  },
+  "Chloe_Spine": {
+    "Spine": {
+      "name": "Chloe",
+      "fileName": "sf-girls-assets/Agents/Chloe/Spine/Chloe_Spine.json"
+    }
+  },
+  "Chloe_Spine_Skin1": {
+    "Spine": {
+      "name": "Chloe Skin 1",
+      "fileName": "sf-girls-assets/Agents/Chloe/Spine/Chloe_Spine_Skin1.json"
+    }
+  },
+  "Coco_Spine": {
+    "Spine": {
+      "name": "Coco",
+      "fileName": "sf-girls-assets/Agents/Coco/Spine/Coco_Spine.json"
+    }
+  },
+  "Coco_Spine_Skin1": {
+    "Spine": {
+      "name": "Coco Skin 1",
+      "fileName": "sf-girls-assets/Agents/Coco/Spine/Coco_Spine_Skin1.json"
+    }
+  },
+  "Coco_Spine_Skin2": {
+    "Spine": {
+      "name": "Coco Skin 2",
+      "fileName": "sf-girls-assets/Agents/Coco/Spine/Coco_Spine_Skin2.json"
+    }
+  },
+  "Denka_Spine_Wedding": {
+    "Spine": {
+      "name": "Denka Wedding",
+      "fileName": "sf-girls-assets/Agents/Denka/Spine/Denka_Spine_Wedding.json"
+    }
+  },
+  "Eiko_Spine_Skin1": {
+    "Spine": {
+      "name": "Eiko Skin 1",
+      "fileName": "sf-girls-assets/Agents/Eiko/Spine/Eiko_Spine_Skin1.json"
+    }
+  },
+  "Eiko_Spine_Wedding": {
+    "Spine": {
+      "name": "Eiko Wedding",
+      "fileName": "sf-girls-assets/Agents/Eiko/Spine/Eiko_Spine_Wedding.json"
+    }
+  },
+  "Ember_X_Spine": {
+    "Spine": {
+      "name": "Ember X",
+      "fileName": "sf-girls-assets/Agents/Ember_X/Spine/Ember_X_Spine.json"
+    }
+  },
+  "Ember_X_Spine_Skin1": {
+    "Spine": {
+      "name": "Ember X Skin 1",
+      "fileName": "sf-girls-assets/Agents/Ember_X/Spine/Ember_X_Spine_Skin1.json"
+    }
+  },
+  "Feme_Spine": {
+    "Spine": {
+      "name": "Feme",
+      "fileName": "sf-girls-assets/Agents/Feme/Spine/Feme_Spine.json"
+    }
+  },
+  "Feme_Spine_Skin1": {
+    "Spine": {
+      "name": "Feme Skin 1",
+      "fileName": "sf-girls-assets/Agents/Feme/Spine/Feme_Spine_Skin1.json"
+    }
+  },
+  "Gai_Gai_Spine_Skin1": {
+    "Spine": {
+      "name": "Gai Gai Skin 1",
+      "fileName": "sf-girls-assets/Agents/Gai_Gai/Spine/Gai_Gai_Spine_Skin1.json"
+    }
+  },
+  "Hami_Spine_Skin1": {
+    "Spine": {
+      "name": "Hami Skin 1",
+      "fileName": "sf-girls-assets/Agents/Hami/Spine/Hami_Spine_Skin1.json"
+    }
+  },
+  "Hitomi_Spine_Wedding": {
+    "Spine": {
+      "name": "Hitomi Wedding",
+      "fileName": "sf-girls-assets/Agents/Hitomi/Spine/Hitomi_Spine_Wedding.json"
+    }
+  },
+  "Hoshiko_Spine": {
+    "Spine": {
+      "name": "Hoshiko",
+      "fileName": "sf-girls-assets/Agents/Hoshiko/Spine/Hoshiko_Spine.json"
+    }
+  },
+  "Hoshiko_Spine_Skin1": {
+    "Spine": {
+      "name": "Hoshiko Skin 1",
+      "fileName": "sf-girls-assets/Agents/Hoshiko/Spine/Hoshiko_Spine_Skin1.json"
+    }
+  },
+  "Hoshiko_Spine_Skin2": {
+    "Spine": {
+      "name": "Hoshiko Skin 2",
+      "fileName": "sf-girls-assets/Agents/Hoshiko/Spine/Hoshiko_Spine_Skin2.json"
+    }
+  },
+  "Hoshiko_Spine_Skin3": {
+    "Spine": {
+      "name": "Hoshiko Skin 3",
+      "fileName": "sf-girls-assets/Agents/Hoshiko/Spine/Hoshiko_Spine_Skin3.json"
+    }
+  },
+  "Iizuna_Spine": {
+    "Spine": {
+      "name": "Iizuna",
+      "fileName": "sf-girls-assets/Agents/Iizuna/Spine/Iizuna_Spine.json"
+    }
+  },
+  "Irina_Spine": {
+    "Spine": {
+      "name": "Irina",
+      "fileName": "sf-girls-assets/Agents/Irina/Spine/Irina_Spine.json"
+    }
+  },
+  "Irina_Spine_Skin1": {
+    "Spine": {
+      "name": "Irina Skin 1",
+      "fileName": "sf-girls-assets/Agents/Irina/Spine/Irina_Spine_Skin1.json"
+    }
+  },
+  "Kagawa_Matsu_Spine": {
+    "Spine": {
+      "name": "Kagawa Matsu",
+      "fileName": "sf-girls-assets/Agents/Kagawa_Matsu/Spine/Kagawa_Matsu_Spine.json"
+    }
+  },
+  "Kaja_Spine": {
+    "Spine": {
+      "name": "Kaja",
+      "fileName": "sf-girls-assets/Agents/Kaja/Spine/Kaja_Spine.json"
+    }
+  },
+  "Kaja_Spine_Skin1": {
+    "Spine": {
+      "name": "Kaja Skin 1",
+      "fileName": "sf-girls-assets/Agents/Kaja/Spine/Kaja_Spine_Skin1.json"
+    }
+  },
+  "Karry_Spine": {
+    "Spine": {
+      "name": "Karry",
+      "fileName": "sf-girls-assets/Agents/Karry/Spine/Karry_Spine.json"
+    }
+  },
+  "Kiyomi_Spine_Skin2": {
+    "Spine": {
+      "name": "Kiyomi Skin 2",
+      "fileName": "sf-girls-assets/Agents/Kiyomi/Spine/Kiyomi_Spine_Skin2.json"
+    }
+  },
+  "Kura_Spine_Skin1": {
+    "Spine": {
+      "name": "Kura Skin 1",
+      "fileName": "sf-girls-assets/Agents/Kura/Spine/Kura_Spine_Skin1.json"
+    }
+  },
+  "Kura_Spine_Skin2": {
+    "Spine": {
+      "name": "Kura Skin 2",
+      "fileName": "sf-girls-assets/Agents/Kura/Spine/Kura_Spine_Skin2.json"
+    }
+  },
+  "Laura_Spine_Skin1": {
+    "Spine": {
+      "name": "Laura Skin 1",
+      "fileName": "sf-girls-assets/Agents/Laura/Spine/Laura_Spine_Skin1.json"
+    }
+  },
+  "Livia_Spine_Wedding": {
+    "Spine": {
+      "name": "Livia Wedding",
+      "fileName": "sf-girls-assets/Agents/Livia/Spine/Livia_Spine_Wedding.json"
+    }
+  },
+  "Mai_Spine_Skin1": {
+    "Spine": {
+      "name": "Mai Skin 1",
+      "fileName": "sf-girls-assets/Agents/Mai/Spine/Mai_Spine_Skin1.json"
+    }
+  },
+  "Mai_Spine_Wedding": {
+    "Spine": {
+      "name": "Mai Wedding",
+      "fileName": "sf-girls-assets/Agents/Mai/Spine/Mai_Spine_Wedding.json"
+    }
+  },
+  "Masamune_Spine": {
+    "Spine": {
+      "name": "Masamune",
+      "fileName": "sf-girls-assets/Agents/Masamune/Spine/Masamune_Spine.json"
+    }
+  },
+  "Meteli_Spine": {
+    "Spine": {
+      "name": "Meteli",
+      "fileName": "sf-girls-assets/Agents/Meteli/Spine/Meteli_Spine.json"
+    }
+  },
+  "Meteli_Spine_Skin1": {
+    "Spine": {
+      "name": "Meteli Skin 1",
+      "fileName": "sf-girls-assets/Agents/Meteli/Spine/Meteli_Spine_Skin1.json"
+    }
+  },
+  "Midori_Spine": {
+    "Spine": {
+      "name": "Midori",
+      "fileName": "sf-girls-assets/Agents/Midori/Spine/Midori_Spine.json"
+    }
+  },
+  "Midori_Spine_Skin1": {
+    "Spine": {
+      "name": "Midori Skin 1",
+      "fileName": "sf-girls-assets/Agents/Midori/Spine/Midori_Spine_Skin1.json"
+    }
+  },
+  "Mitsu_Spine_Skin1": {
+    "Spine": {
+      "name": "Mitsu Skin 1",
+      "fileName": "sf-girls-assets/Agents/Mitsu/Spine/Mitsu_Spine_Skin1.json"
+    }
+  },
+  "Momoko_Spine_Skin3": {
+    "Spine": {
+      "name": "Momoko Skin 3",
+      "fileName": "sf-girls-assets/Agents/Momoko/Spine/Momoko_Spine_Skin3.json"
+    }
+  },
+  "Mora_Spine": {
+    "Spine": {
+      "name": "Mora",
+      "fileName": "sf-girls-assets/Agents/Mora/Spine/Mora_Spine.json"
+    }
+  },
+  "Mora_Spine_Skin2": {
+    "Spine": {
+      "name": "Mora Skin 2",
+      "fileName": "sf-girls-assets/Agents/Mora/Spine/Mora_Spine_Skin2.json"
+    }
+  },
+  "Mora_Spine_Skin3": {
+    "Spine": {
+      "name": "Mora Skin 3",
+      "fileName": "sf-girls-assets/Agents/Mora/Spine/Mora_Spine_Skin3.json"
+    }
+  },
+  "Musuna_Spine_Skin1": {
+    "Spine": {
+      "name": "Musuna Skin 1",
+      "fileName": "sf-girls-assets/Agents/Musuna/Spine/Musuna_Spine_Skin1.json"
+    }
+  },
+  "Ne_Spine": {
+    "Spine": {
+      "name": "Ne",
+      "fileName": "sf-girls-assets/Agents/Ne/Spine/Ne_Spine.json"
+    }
+  },
+  "Neugena_Spine": {
+    "Spine": {
+      "name": "Neugena",
+      "fileName": "sf-girls-assets/Agents/Neugena/Spine/Neugena_Spine.json"
+    }
+  },
+  "Neugena_Spine_Skin1": {
+    "Spine": {
+      "name": "Neugena Skin 1",
+      "fileName": "sf-girls-assets/Agents/Neugena/Spine/Neugena_Spine_Skin1.json"
+    }
+  },
+  "Neve_X_Spine_Skin1": {
+    "Spine": {
+      "name": "Neve X Skin 1",
+      "fileName": "sf-girls-assets/Agents/Neve_X/Spine/Neve_X_Spine_Skin1.json"
+    }
+  },
+  "Neve_X_Spine_Wedding": {
+    "Spine": {
+      "name": "Neve X Wedding",
+      "fileName": "sf-girls-assets/Agents/Neve_X/Spine/Neve_X_Spine_Wedding.json"
+    }
+  },
+  "Noa_Spine_Skin1": {
+    "Spine": {
+      "name": "Noa Skin 1",
+      "fileName": "sf-girls-assets/Agents/Noa/Spine/Noa_Spine_Skin1.json"
+    }
+  },
+  "Noa_Spine_Skin3": {
+    "Spine": {
+      "name": "Noa Skin 3",
+      "fileName": "sf-girls-assets/Agents/Noa/Spine/Noa_Spine_Skin3.json"
+    }
+  },
+  "Noa_Spine_Wedding": {
+    "Spine": {
+      "name": "Noa Wedding",
+      "fileName": "sf-girls-assets/Agents/Noa/Spine/Noa_Spine_Wedding.json"
+    }
+  },
+  "O_Spine": {
+    "Spine": {
+      "name": "O",
+      "fileName": "sf-girls-assets/Agents/O/Spine/O_Spine.json"
+    }
+  },
+  "O_Spine_Skin1": {
+    "Spine": {
+      "name": "O Skin 1",
+      "fileName": "sf-girls-assets/Agents/O/Spine/O_Spine_Skin1.json"
+    }
+  },
+  "O_Spine_Wedding": {
+    "Spine": {
+      "name": "O Wedding",
+      "fileName": "sf-girls-assets/Agents/O/Spine/O_Spine_Wedding.json"
+    }
+  },
+  "Ora_Spine": {
+    "Spine": {
+      "name": "Ora",
+      "fileName": "sf-girls-assets/Agents/Ora/Spine/Ora_Spine.json"
+    }
+  },
+  "Pan_Spine": {
+    "Spine": {
+      "name": "Pan",
+      "fileName": "sf-girls-assets/Agents/Pan/Spine/Pan_Spine.json"
+    }
+  },
+  "Pan_Spine_Skin1": {
+    "Spine": {
+      "name": "Pan Skin 1",
+      "fileName": "sf-girls-assets/Agents/Pan/Spine/Pan_Spine_Skin1.json"
+    }
+  },
+  "Raphael_Spine": {
+    "Spine": {
+      "name": "Raphael",
+      "fileName": "sf-girls-assets/Agents/Raphael/Spine/Raphael_Spine.json"
+    }
+  },
+  "Rei_Spine_Skin1": {
+    "Spine": {
+      "name": "Rei Skin 1",
+      "fileName": "sf-girls-assets/Agents/Rei/Spine/Rei_Spine_Skin1.json"
+    }
+  },
+  "Rei_Spine_Wedding": {
+    "Spine": {
+      "name": "Rei Wedding",
+      "fileName": "sf-girls-assets/Agents/Rei/Spine/Rei_Spine_Wedding.json"
+    }
+  },
+  "Reika_Spine_Skin1": {
+    "Spine": {
+      "name": "Reika Skin 1",
+      "fileName": "sf-girls-assets/Agents/Reika/Spine/Reika_Spine_Skin1.json"
+    }
+  },
+  "Rei_JK_Spine_Skin1": {
+    "Spine": {
+      "name": "Rei JK Skin 1",
+      "fileName": "sf-girls-assets/Agents/Rei_JK/Spine/Rei_JK_Spine_Skin1.json"
+    }
+  },
+  "Rei_JK_Spine_Skin3": {
+    "Spine": {
+      "name": "Rei JK Skin 3",
+      "fileName": "sf-girls-assets/Agents/Rei_JK/Spine/Rei_JK_Spine_Skin3.json"
+    }
+  },
+  "Riho_Spine_Skin1": {
+    "Spine": {
+      "name": "Riho Skin 1",
+      "fileName": "sf-girls-assets/Agents/Riho/Spine/Riho_Spine_Skin1.json"
+    }
+  },
+  "Riho_X_Spine_Skin1": {
+    "Spine": {
+      "name": "Riho X Skin 1",
+      "fileName": "sf-girls-assets/Agents/Riho_X/Spine/Riho_X_Spine_Skin1.json"
+    }
+  },
+  "Riho_X_Spine_Wedding": {
+    "Spine": {
+      "name": "Riho X Wedding",
+      "fileName": "sf-girls-assets/Agents/Riho_X/Spine/Riho_X_Spine_Wedding.json"
+    }
+  },
+  "Rosalie_Spine": {
+    "Spine": {
+      "name": "Rosalie",
+      "fileName": "sf-girls-assets/Agents/Rosalie/Spine/Rosalie_Spine.json"
+    }
+  },
+  "Rosalie_Spine_Skin1": {
+    "Spine": {
+      "name": "Rosalie Skin 1",
+      "fileName": "sf-girls-assets/Agents/Rosalie/Spine/Rosalie_Spine_Skin1.json"
+    }
+  },
+  "Rosalie_Spine_Skin2": {
+    "Spine": {
+      "name": "Rosalie Skin 2",
+      "fileName": "sf-girls-assets/Agents/Rosalie/Spine/Rosalie_Spine_Skin2.json"
+    }
+  },
+  "Rui_Spine": {
+    "Spine": {
+      "name": "Rui",
+      "fileName": "sf-girls-assets/Agents/Rui/Spine/Rui_Spine.json"
+    }
+  },
+  "Rui_Spine_Skin1": {
+    "Spine": {
+      "name": "Rui Skin 1",
+      "fileName": "sf-girls-assets/Agents/Rui/Spine/Rui_Spine_Skin1.json"
+    }
+  },
+  "Sally_Spine": {
+    "Spine": {
+      "name": "Sally",
+      "fileName": "sf-girls-assets/Agents/Sally/Spine/Sally_Spine.json"
+    }
+  },
+  "Sally_Spine_Skin1": {
+    "Spine": {
+      "name": "Sally Skin 1",
+      "fileName": "sf-girls-assets/Agents/Sally/Spine/Sally_Spine_Skin1.json"
+    }
+  },
+  "Sara_Spine_Skin1": {
+    "Spine": {
+      "name": "Sara Skin 1",
+      "fileName": "sf-girls-assets/Agents/Sara/Spine/Sara_Spine_Skin1.json"
+    }
+  },
+  "Sato_Spine": {
+    "Spine": {
+      "name": "Sato",
+      "fileName": "sf-girls-assets/Agents/Sato/Spine/Sato_Spine.json"
+    }
+  },
+  "Sayaka_Spine": {
+    "Spine": {
+      "name": "Sayaka",
+      "fileName": "sf-girls-assets/Agents/Sayaka/Spine/Sayaka_Spine.json"
+    }
+  },
+  "Sayaka_Spine_Skin1": {
+    "Spine": {
+      "name": "Sayaka Skin 1",
+      "fileName": "sf-girls-assets/Agents/Sayaka/Spine/Sayaka_Spine_Skin1.json"
+    }
+  },
+  "Seina_Spine": {
+    "Spine": {
+      "name": "Seina",
+      "fileName": "sf-girls-assets/Agents/Seina/Spine/Seina_Spine.json"
+    }
+  },
+  "Sera_Spine": {
+    "Spine": {
+      "name": "Sera",
+      "fileName": "sf-girls-assets/Agents/Sera/Spine/Sera_Spine.json"
+    }
+  },
+  "Setsuna_Spine_Skin2": {
+    "Spine": {
+      "name": "Setsuna Skin 2",
+      "fileName": "sf-girls-assets/Agents/Setsuna/Spine/Setsuna_Spine_Skin2.json"
+    }
+  },
+  "Shiko_Spine": {
+    "Spine": {
+      "name": "Shiko",
+      "fileName": "sf-girls-assets/Agents/Shiko/Spine/Shiko_Spine.json"
+    }
+  },
+  "Shiko_Spine_Skin1": {
+    "Spine": {
+      "name": "Shiko Skin 1",
+      "fileName": "sf-girls-assets/Agents/Shiko/Spine/Shiko_Spine_Skin1.json"
+    }
+  },
+  "Shiko_Spine_Wedding": {
+    "Spine": {
+      "name": "Shiko Wedding",
+      "fileName": "sf-girls-assets/Agents/Shiko/Spine/Shiko_Spine_Wedding.json"
+    }
+  },
+  "Sizuko_Spine_Skin1": {
+    "Spine": {
+      "name": "Sizuko Skin 1",
+      "fileName": "sf-girls-assets/Agents/Sizuko/Spine/Sizuko_Spine_Skin1.json"
+    }
+  },
+  "Sizuko_Spine_Wedding": {
+    "Spine": {
+      "name": "Sizuko Wedding",
+      "fileName": "sf-girls-assets/Agents/Sizuko/Spine/Sizuko_Spine_Wedding.json"
+    }
+  },
+  "Sora_Spine_Wedding": {
+    "Spine": {
+      "name": "Sora Wedding",
+      "fileName": "sf-girls-assets/Agents/Sora/Spine/Sora_Spine_Wedding.json"
+    }
+  },
+  "Sora_X_Spine": {
+    "Spine": {
+      "name": "Sora X",
+      "fileName": "sf-girls-assets/Agents/Sora_X/Spine/Sora_X_Spine.json"
+    }
+  },
+  "Toki_Spine": {
+    "Spine": {
+      "name": "Toki",
+      "fileName": "sf-girls-assets/Agents/Toki/Spine/Toki_Spine.json"
+    }
+  },
+  "Toki_Spine_Skin2": {
+    "Spine": {
+      "name": "Toki Skin 2",
+      "fileName": "sf-girls-assets/Agents/Toki/Spine/Toki_Spine_Skin2.json"
+    }
+  },
+  "Tsukiko_Spine_Skin2": {
+    "Spine": {
+      "name": "Tsukiko Skin 2",
+      "fileName": "sf-girls-assets/Agents/Tsukiko/Spine/Tsukiko_Spine_Skin2.json"
+    }
+  },
+  "Tsukiko_Spine_Wedding": {
+    "Spine": {
+      "name": "Tsukiko Wedding",
+      "fileName": "sf-girls-assets/Agents/Tsukiko/Spine/Tsukiko_Spine_Wedding.json"
+    }
+  },
+  "Tsurumi_Spine": {
+    "Spine": {
+      "name": "Tsurumi",
+      "fileName": "sf-girls-assets/Agents/Tsurumi/Spine/Tsurumi_Spine.json"
+    }
+  },
+  "Tyrla_Spine": {
+    "Spine": {
+      "name": "Tyrla",
+      "fileName": "sf-girls-assets/Agents/Tyrla/Spine/Tyrla_Spine.json"
+    }
+  },
+  "Tyrla_Spine_Skin1": {
+    "Spine": {
+      "name": "Tyrla Skin 1",
+      "fileName": "sf-girls-assets/Agents/Tyrla/Spine/Tyrla_Spine_Skin1.json"
+    }
+  },
+  "Uni_Spine_Skin1": {
+    "Spine": {
+      "name": "Uni Skin 1",
+      "fileName": "sf-girls-assets/Agents/Uni/Spine/Uni_Spine_Skin1.json"
+    }
+  },
+  "Uni_Spine_Wedding": {
+    "Spine": {
+      "name": "Uni Wedding",
+      "fileName": "sf-girls-assets/Agents/Uni/Spine/Uni_Spine_Wedding.json"
+    }
+  },
+  "Uta_Spine": {
+    "Spine": {
+      "name": "Uta",
+      "fileName": "sf-girls-assets/Agents/Uta/Spine/Uta_Spine.json"
+    }
+  },
+  "Uta_Spine_Skin1": {
+    "Spine": {
+      "name": "Uta Skin 1",
+      "fileName": "sf-girls-assets/Agents/Uta/Spine/Uta_Spine_Skin1.json"
+    }
+  },
+  "Uzu_Spine_Skin1": {
+    "Spine": {
+      "name": "Uzu Skin 1",
+      "fileName": "sf-girls-assets/Agents/Uzu/Spine/Uzu_Spine_Skin1.json"
+    }
+  },
+  "Uzu_Spine_Wedding": {
+    "Spine": {
+      "name": "Uzu Wedding",
+      "fileName": "sf-girls-assets/Agents/Uzu/Spine/Uzu_Spine_Wedding.json"
+    }
+  },
+  "Vanessa_Spine_Skin2": {
+    "Spine": {
+      "name": "Vanessa Skin 2",
+      "fileName": "sf-girls-assets/Agents/Vanessa/Spine/Vanessa_Spine_Skin2.json"
+    }
+  },
+  "Victoria_Spine": {
+    "Spine": {
+      "name": "Victoria",
+      "fileName": "sf-girls-assets/Agents/Victoria/Spine/Victoria_Spine.json"
+    }
+  },
+  "Victoria_Spine_Skin1": {
+    "Spine": {
+      "name": "Victoria Skin 1",
+      "fileName": "sf-girls-assets/Agents/Victoria/Spine/Victoria_Spine_Skin1.json"
+    }
+  },
+  "Victoria_Spine_Skin2": {
+    "Spine": {
+      "name": "Victoria Skin 2",
+      "fileName": "sf-girls-assets/Agents/Victoria/Spine/Victoria_Spine_Skin2.json"
+    }
+  },
+  "Victoria_Spine_Skin3": {
+    "Spine": {
+      "name": "Victoria Skin 3",
+      "fileName": "sf-girls-assets/Agents/Victoria/Spine/Victoria_Spine_Skin3.json"
+    }
+  },
+  "Wu_Spine": {
+    "Spine": {
+      "name": "Wu",
+      "fileName": "sf-girls-assets/Agents/Wu/Spine/Wu_Spine.json"
+    }
+  },
+  "Wu_Spine_Skin1": {
+    "Spine": {
+      "name": "Wu Skin 1",
+      "fileName": "sf-girls-assets/Agents/Wu/Spine/Wu_Spine_Skin1.json"
+    }
+  },
+  "Yukako_Spine_Skin2": {
+    "Spine": {
+      "name": "Yukako Skin 2",
+      "fileName": "sf-girls-assets/Agents/Yukako/Spine/Yukako_Spine_Skin2.json"
+    }
+  },
+  "Yukako_X_Spine": {
+    "Spine": {
+      "name": "Yukako X",
+      "fileName": "sf-girls-assets/Agents/Yukako_X/Spine/Yukako_X_Spine.json"
+    }
+  },
+  "Yukako_X_Spine_Skin1": {
+    "Spine": {
+      "name": "Yukako X Skin 1",
+      "fileName": "sf-girls-assets/Agents/Yukako_X/Spine/Yukako_X_Spine_Skin1.json"
+    }
+  },
+  "Yuuha_Spine_Skin2": {
+    "Spine": {
+      "name": "Yuuha Skin 2",
+      "fileName": "sf-girls-assets/Agents/Yuuha/Spine/Yuuha_Spine_Skin2.json"
+    }
+  },
+  "Yuuha_Spine_Wedding": {
+    "Spine": {
+      "name": "Yuuha Wedding",
+      "fileName": "sf-girls-assets/Agents/Yuuha/Spine/Yuuha_Spine_Wedding.json"
+    }
+  },
+  "Zi_Long_Spine": {
+    "Spine": {
+      "name": "Zi Long",
+      "fileName": "sf-girls-assets/Agents/Zi_Long/Spine/Zi_Long_Spine.json"
+    }
+  },
+  "Zi_Long_Spine_Skin1": {
+    "Spine": {
+      "name": "Zi Long Skin 1",
+      "fileName": "sf-girls-assets/Agents/Zi_Long/Spine/Zi_Long_Spine_Skin1.json"
+    }
+  }
+}

@@ -1,4 +1,5 @@
 async function loadBackground() {
+  console.log(config.background);
   const paths = lobbyBackgrounds[config.background].paths;
   const styles = lobbyBackgrounds[config.background].style ?? [];
 

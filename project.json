@@ -6,6 +6,10 @@
         "index": 0,
         "options": [
           {
+            "label": "Aizawa Minami",
+            "value": "Aizawa_Minami_Spine"
+          },
+          {
             "label": "Akari",
             "value": "Akari_Spine"
           },
@@ -122,8 +126,456 @@
             "value": "Chloe_Spine_Skin1"
           },
           {
+            "label": "Coco",
+            "value": "Coco_Spine"
+          },
+          {
+            "label": "Coco Skin 1",
+            "value": "Coco_Spine_Skin1"
+          },
+          {
+            "label": "Coco Skin 2",
+            "value": "Coco_Spine_Skin2"
+          },
+          {
+            "label": "Denka Wedding",
+            "value": "Denka_Spine_Wedding"
+          },
+          {
+            "label": "Eiko Skin 1",
+            "value": "Eiko_Spine_Skin1"
+          },
+          {
+            "label": "Eiko Wedding",
+            "value": "Eiko_Spine_Wedding"
+          },
+          {
+            "label": "Ember X",
+            "value": "Ember_X_Spine"
+          },
+          {
+            "label": "Ember X Skin 1",
+            "value": "Ember_X_Spine_Skin1"
+          },
+          {
+            "label": "Feme",
+            "value": "Feme_Spine"
+          },
+          {
+            "label": "Feme Skin 1",
+            "value": "Feme_Spine_Skin1"
+          },
+          {
+            "label": "Gai Gai Skin 1",
+            "value": "Gai_Gai_Spine_Skin1"
+          },
+          {
+            "label": "Hami Skin 1",
+            "value": "Hami_Spine_Skin1"
+          },
+          {
+            "label": "Hitomi Wedding",
+            "value": "Hitomi_Spine_Wedding"
+          },
+          {
+            "label": "Hoshiko",
+            "value": "Hoshiko_Spine"
+          },
+          {
+            "label": "Hoshiko Skin 1",
+            "value": "Hoshiko_Spine_Skin1"
+          },
+          {
+            "label": "Hoshiko Skin 2",
+            "value": "Hoshiko_Spine_Skin2"
+          },
+          {
+            "label": "Hoshiko Skin 3",
+            "value": "Hoshiko_Spine_Skin3"
+          },
+          {
+            "label": "Iizuna",
+            "value": "Iizuna_Spine"
+          },
+          {
+            "label": "Irina",
+            "value": "Irina_Spine"
+          },
+          {
+            "label": "Irina Skin 1",
+            "value": "Irina_Spine_Skin1"
+          },
+          {
+            "label": "Kagawa Matsu",
+            "value": "Kagawa_Matsu_Spine"
+          },
+          {
+            "label": "Kaja",
+            "value": "Kaja_Spine"
+          },
+          {
+            "label": "Kaja Skin 1",
+            "value": "Kaja_Spine_Skin1"
+          },
+          {
+            "label": "Karry",
+            "value": "Karry_Spine"
+          },
+          {
+            "label": "Kiyomi Skin 2",
+            "value": "Kiyomi_Spine_Skin2"
+          },
+          {
+            "label": "Kura Skin 1",
+            "value": "Kura_Spine_Skin1"
+          },
+          {
+            "label": "Kura Skin 2",
+            "value": "Kura_Spine_Skin2"
+          },
+          {
+            "label": "Laura Skin 1",
+            "value": "Laura_Spine_Skin1"
+          },
+          {
+            "label": "Livia Wedding",
+            "value": "Livia_Spine_Wedding"
+          },
+          {
+            "label": "Mai Skin 1",
+            "value": "Mai_Spine_Skin1"
+          },
+          {
+            "label": "Mai Wedding",
+            "value": "Mai_Spine_Wedding"
+          },
+          {
+            "label": "Masamune",
+            "value": "Masamune_Spine"
+          },
+          {
+            "label": "Meteli",
+            "value": "Meteli_Spine"
+          },
+          {
+            "label": "Meteli Skin 1",
+            "value": "Meteli_Spine_Skin1"
+          },
+          {
+            "label": "Midori",
+            "value": "Midori_Spine"
+          },
+          {
             "label": "Midori Skin 1",
             "value": "Midori_Spine_Skin1"
+          },
+          {
+            "label": "Mitsu Skin 1",
+            "value": "Mitsu_Spine_Skin1"
+          },
+          {
+            "label": "Momoko Skin 3",
+            "value": "Momoko_Spine_Skin3"
+          },
+          {
+            "label": "Mora",
+            "value": "Mora_Spine"
+          },
+          {
+            "label": "Mora Skin 2",
+            "value": "Mora_Spine_Skin2"
+          },
+          {
+            "label": "Mora Skin 3",
+            "value": "Mora_Spine_Skin3"
+          },
+          {
+            "label": "Musuna Skin 1",
+            "value": "Musuna_Spine_Skin1"
+          },
+          {
+            "label": "Ne",
+            "value": "Ne_Spine"
+          },
+          {
+            "label": "Neugena",
+            "value": "Neugena_Spine"
+          },
+          {
+            "label": "Neugena Skin 1",
+            "value": "Neugena_Spine_Skin1"
+          },
+          {
+            "label": "Neve X Skin 1",
+            "value": "Neve_X_Spine_Skin1"
+          },
+          {
+            "label": "Neve X Wedding",
+            "value": "Neve_X_Spine_Wedding"
+          },
+          {
+            "label": "Noa Skin 1",
+            "value": "Noa_Spine_Skin1"
+          },
+          {
+            "label": "Noa Skin 3",
+            "value": "Noa_Spine_Skin3"
+          },
+          {
+            "label": "Noa Wedding",
+            "value": "Noa_Spine_Wedding"
+          },
+          {
+            "label": "O",
+            "value": "O_Spine"
+          },
+          {
+            "label": "O Skin 1",
+            "value": "O_Spine_Skin1"
+          },
+          {
+            "label": "O Wedding",
+            "value": "O_Spine_Wedding"
+          },
+          {
+            "label": "Ora",
+            "value": "Ora_Spine"
+          },
+          {
+            "label": "Pan",
+            "value": "Pan_Spine"
+          },
+          {
+            "label": "Pan Skin 1",
+            "value": "Pan_Spine_Skin1"
+          },
+          {
+            "label": "Raphael",
+            "value": "Raphael_Spine"
+          },
+          {
+            "label": "Rei Skin 1",
+            "value": "Rei_Spine_Skin1"
+          },
+          {
+            "label": "Rei Wedding",
+            "value": "Rei_Spine_Wedding"
+          },
+          {
+            "label": "Reika Skin 1",
+            "value": "Reika_Spine_Skin1"
+          },
+          {
+            "label": "Rei JK Skin 1",
+            "value": "Rei_JK_Spine_Skin1"
+          },
+          {
+            "label": "Rei JK Skin 3",
+            "value": "Rei_JK_Spine_Skin3"
+          },
+          {
+            "label": "Riho Skin 1",
+            "value": "Riho_Spine_Skin1"
+          },
+          {
+            "label": "Riho X Skin 1",
+            "value": "Riho_X_Spine_Skin1"
+          },
+          {
+            "label": "Riho X Wedding",
+            "value": "Riho_X_Spine_Wedding"
+          },
+          {
+            "label": "Rosalie",
+            "value": "Rosalie_Spine"
+          },
+          {
+            "label": "Rosalie Skin 1",
+            "value": "Rosalie_Spine_Skin1"
+          },
+          {
+            "label": "Rosalie Skin 2",
+            "value": "Rosalie_Spine_Skin2"
+          },
+          {
+            "label": "Rui",
+            "value": "Rui_Spine"
+          },
+          {
+            "label": "Rui Skin 1",
+            "value": "Rui_Spine_Skin1"
+          },
+          {
+            "label": "Sally",
+            "value": "Sally_Spine"
+          },
+          {
+            "label": "Sally Skin 1",
+            "value": "Sally_Spine_Skin1"
+          },
+          {
+            "label": "Sara Skin 1",
+            "value": "Sara_Spine_Skin1"
+          },
+          {
+            "label": "Sato",
+            "value": "Sato_Spine"
+          },
+          {
+            "label": "Sayaka",
+            "value": "Sayaka_Spine"
+          },
+          {
+            "label": "Sayaka Skin 1",
+            "value": "Sayaka_Spine_Skin1"
+          },
+          {
+            "label": "Seina",
+            "value": "Seina_Spine"
+          },
+          {
+            "label": "Sera",
+            "value": "Sera_Spine"
+          },
+          {
+            "label": "Setsuna Skin 2",
+            "value": "Setsuna_Spine_Skin2"
+          },
+          {
+            "label": "Shiko",
+            "value": "Shiko_Spine"
+          },
+          {
+            "label": "Shiko Skin 1",
+            "value": "Shiko_Spine_Skin1"
+          },
+          {
+            "label": "Shiko Wedding",
+            "value": "Shiko_Spine_Wedding"
+          },
+          {
+            "label": "Sizuko Skin 1",
+            "value": "Sizuko_Spine_Skin1"
+          },
+          {
+            "label": "Sizuko Wedding",
+            "value": "Sizuko_Spine_Wedding"
+          },
+          {
+            "label": "Sora Wedding",
+            "value": "Sora_Spine_Wedding"
+          },
+          {
+            "label": "Sora X",
+            "value": "Sora_X_Spine"
+          },
+          {
+            "label": "Toki",
+            "value": "Toki_Spine"
+          },
+          {
+            "label": "Toki Skin 2",
+            "value": "Toki_Spine_Skin2"
+          },
+          {
+            "label": "Tsukiko Skin 2",
+            "value": "Tsukiko_Spine_Skin2"
+          },
+          {
+            "label": "Tsukiko Wedding",
+            "value": "Tsukiko_Spine_Wedding"
+          },
+          {
+            "label": "Tsurumi",
+            "value": "Tsurumi_Spine"
+          },
+          {
+            "label": "Tyrla",
+            "value": "Tyrla_Spine"
+          },
+          {
+            "label": "Tyrla Skin 1",
+            "value": "Tyrla_Spine_Skin1"
+          },
+          {
+            "label": "Uni Skin 1",
+            "value": "Uni_Spine_Skin1"
+          },
+          {
+            "label": "Uni Wedding",
+            "value": "Uni_Spine_Wedding"
+          },
+          {
+            "label": "Uta",
+            "value": "Uta_Spine"
+          },
+          {
+            "label": "Uta Skin 1",
+            "value": "Uta_Spine_Skin1"
+          },
+          {
+            "label": "Uzu Skin 1",
+            "value": "Uzu_Spine_Skin1"
+          },
+          {
+            "label": "Uzu Wedding",
+            "value": "Uzu_Spine_Wedding"
+          },
+          {
+            "label": "Vanessa Skin 2",
+            "value": "Vanessa_Spine_Skin2"
+          },
+          {
+            "label": "Victoria",
+            "value": "Victoria_Spine"
+          },
+          {
+            "label": "Victoria Skin 1",
+            "value": "Victoria_Spine_Skin1"
+          },
+          {
+            "label": "Victoria Skin 2",
+            "value": "Victoria_Spine_Skin2"
+          },
+          {
+            "label": "Victoria Skin 3",
+            "value": "Victoria_Spine_Skin3"
+          },
+          {
+            "label": "Wu",
+            "value": "Wu_Spine"
+          },
+          {
+            "label": "Wu Skin 1",
+            "value": "Wu_Spine_Skin1"
+          },
+          {
+            "label": "Yukako Skin 2",
+            "value": "Yukako_Spine_Skin2"
+          },
+          {
+            "label": "Yukako X",
+            "value": "Yukako_X_Spine"
+          },
+          {
+            "label": "Yukako X Skin 1",
+            "value": "Yukako_X_Spine_Skin1"
+          },
+          {
+            "label": "Yuuha Skin 2",
+            "value": "Yuuha_Spine_Skin2"
+          },
+          {
+            "label": "Yuuha Wedding",
+            "value": "Yuuha_Spine_Wedding"
+          },
+          {
+            "label": "Zi Long",
+            "value": "Zi_Long_Spine"
+          },
+          {
+            "label": "Zi Long Skin 1",
+            "value": "Zi_Long_Spine_Skin1"
           }
         ],
         "order": 100,
@@ -176,45 +628,45 @@
         "options": [
           {
             "label": "Lobby 1",
-            "value": "lobby_1"
+            "value": "Lobby_1"
           },
           {
             "label": "Lobby 2",
-            "value": "lobby_2"
+            "value": "Lobby_2"
           },
           {
             "label": "Lobby 3",
-            "value": "lobby_3"
+            "value": "Lobby_3"
           },
           {
             "label": "Lobby 4",
-            "value": "lobby_4"
+            "value": "Lobby_4"
           },
           {
             "label": "Lobby 5",
-            "value": "lobby_5"
+            "value": "Lobby_5"
           },
           {
             "label": "Lobby 6",
-            "value": "lobby_6"
+            "value": "Lobby_6"
           },
           {
             "label": "Lobby 7",
-            "value": "lobby_7"
+            "value": "Lobby_7"
           },
           {
             "label": "Lobby 8",
-            "value": "lobby_8"
+            "value": "Lobby_8"
           },
           {
             "label": "Lobby 9",
-            "value": "lobby_9"
+            "value": "Lobby_9"
           }
         ],
         "order": 101,
         "text": "Background",
         "type": "combo",
-        "value": "lobby_1"
+        "value": "Lobby_1"
       },
       "lewdness": {
         "condition": "agent.value != \"\"",

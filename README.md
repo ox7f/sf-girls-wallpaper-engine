@@ -4,7 +4,7 @@
 
 This is a **Wallpaper Engine** project featuring **Spine/Live2D animations** from the game **SF Girls**. It brings characters from the game to life as dynamic wallpapers.
 
-![Preview](./static/img/example.gif)
+![Preview](./public/static/img/example.gif)
 
 ## Features
 

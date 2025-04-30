@@ -13,56 +13,56 @@ let agentContainer;
 let backgroundContainer;
 
 const lobbyBackgrounds = {
-  lobby_1: {
+  Lobby_1: {
     paths: [
-      "assets/background/lobby_1/bg_sky.png",
-      "assets/background/lobby_1/bg_sky_cloud.png",
-      "assets/background/lobby_1/bg_home.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_1/bg_sky.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_1/bg_sky_cloud.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_1/bg_home.png",
     ],
     style: [{ y: 200 }, { y: 200 }],
   },
-  lobby_2: {
+  Lobby_2: {
     paths: [
-      "assets/background/lobby_2/bg_anniversary.png",
-      "assets/background/lobby_2/bg_ship_effect.png",
-      "assets/background/lobby_2/bg_ship.png",
-      "assets/background/lobby_2/bg_home_2.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_2/bg_anniversary.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_2/bg_ship_effect.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_2/bg_ship.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_2/bg_home_2.png",
     ],
     style: [{ y: 200 }, { y: 200 }, { y: 200 }],
   },
-  lobby_3: {
+  Lobby_3: {
     paths: [
-      "assets/background/lobby_3/bg_anniversary.png",
-      "assets/background/lobby_3/bg_ship_effect.png",
-      "assets/background/lobby_3/bg_ship.png",
-      "assets/background/lobby_3/bg_home_2.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_3/bg_anniversary.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_3/bg_ship_effect.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_3/bg_ship.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_3/bg_home_2.png",
     ],
     style: [{ y: 200 }, { y: 200 }, { y: 200 }],
   },
-  lobby_4: {
+  Lobby_4: {
     paths: [
-      "assets/background/lobby_4/bg_sky 1.png",
-      "assets/background/lobby_4/bg_sky_cloud 1.png",
-      "assets/background/lobby_4/bg_home_sea.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_4/bg_sky 1.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_4/bg_sky_cloud 1.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_4/bg_home_sea.png",
     ],
     style: [{ y: 200 }, { y: 200 }],
   },
-  lobby_5: {
+  Lobby_5: {
     paths: [
-      "assets/background/lobby_5/bg_sky_night.png",
-      "assets/background/lobby_5/bg_sky_cloud.png",
-      "assets/background/lobby_5/tower20.json",
-      "assets/background/lobby_5/bg_home_fireworkLight.png",
-      "assets/background/lobby_5/bg_home_firework.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_5/bg_sky_night.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_5/bg_sky_cloud.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_5/tower20.json",
+      "public/sf-girls-assets/Backgrounds/Lobby_5/bg_home_fireworkLight.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_5/bg_home_firework.png",
     ],
   },
-  lobby_6: {
+  Lobby_6: {
     paths: [
-      "assets/background/lobby_6/bg_sky_rider.png",
-      "assets/background/lobby_6/bg_home_rider_light.png",
-      "assets/background/lobby_6/bg_home_rider_smoke.png",
-      "assets/background/lobby_6/skeleton.json",
-      "assets/background/lobby_6/bg_home_rider.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_6/bg_sky_rider.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_6/bg_home_rider_light.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_6/bg_home_rider_smoke.png",
+      "public/sf-girls-assets/Backgrounds/Lobby_6/skeleton.json",
+      "public/sf-girls-assets/Backgrounds/Lobby_6/bg_home_rider.png",
     ],
   },
 };
@@ -73,7 +73,8 @@ const getOffset = (key, fallback) => {
 };
 
 const config = {
-  agent: "Midori",
+  agent: "Akari",
+  background: "Lobby_1",
   lewdness: 1,
   allowClick: true,
   allowDrag: true,
