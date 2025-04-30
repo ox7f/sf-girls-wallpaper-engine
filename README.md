@@ -16,15 +16,29 @@ This is a **Wallpaper Engine** project featuring **Spine/Live2D animations** fro
 ## Installation
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/ox7f/sf-girls-wallpaper-engine
    ```
-2. Pull files:
+
+   > If you already cloned the repo without `--recurse-submodules`, initialize the submodule manually:
+   >
+   > ```bash
+   > git submodule update --init --recursive
+   > ```
+
+2. Pull LFS (Large File Storage) assets inside the submodule:
+
    ```bash
+   cd public/sf-girls-assets
    git lfs pull
+   cd ../../
    ```
+
 3. Move the project folder to your Wallpaper Engine projects directory.
+
 4. Open Wallpaper Engine and import the project.
+
 5. Customize settings as desired and apply the wallpaper.
 
 ## Requirements
